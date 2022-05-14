@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(to right, #e5e1ff, #ff2853);
+}
+.backgroundcolorhome{
+  background-color: rgba(0, 0, 255, 0.048);
+}
+
+.card-signin {
+
+  border: 0;
+  border-radius: 2rem;
+  box-shadow: 0 0.5rem 6 rem 0 rgba(0, 0, 0, 0.1);
+}
+.card-signin .card-title {
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+.card-signin .card-body {
+  padding: 2rem;
+}
+div .card-body {
+  border-radius: 2rem;
+}
+
+.form-signin {
+  width: 100%;
+}
+ .form-group input{
+    border-radius: 2rem;
+  }
+  .form-signin .btn {
+  font-size: 80%;
+  border-radius: 2rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  transition: all 0.2s;
+}
+.backgroundcolor{
+    background-color: rgba(173, 216, 230, 0.973);
+}
+.backgroundcolorNot{
+    background-color: rgba(173, 216, 230, 0.973);
+}
+.friendrequest {
+    margin-left: 10px;
+    color: rgba(240, 255, 255, 0.473);
+}
+.colorbtn{
+    color: rgba(240, 255, 255, 0.473);
+}
+
+
+
